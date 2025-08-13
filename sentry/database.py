@@ -1,15 +1,18 @@
-# LOGISICA/sentry/database.py
+# LOGISICA/sentry/database.py (atualizado)
 import sqlite3
 from pathlib import Path
 
-DB_PATH = Path(__file__).parent.parent.parent / "data" / "registros.db"
+# Cria o diretório data se não existir
+DATA_DIR = Path(__file__).parent.parent.parent / "data"
+DATA_DIR.mkdir(exist_ok=True)
+
+DB_PATH = DATA_DIR / "registros.db"
 
 def init_db():
     """Inicializa o banco de dados com as tabelas necessárias"""
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
     
-    # Tabela de usuários
     cursor.execute("""
     CREATE TABLE IF NOT EXISTS usuarios (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -22,7 +25,6 @@ def init_db():
     )
     """)
     
-    # Tabela de registros de acesso
     cursor.execute("""
     CREATE TABLE IF NOT EXISTS registros (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -37,8 +39,10 @@ def init_db():
     
     # Inserir usuário admin padrão se não existir
     cursor.execute("""
-    INSERT OR IGNORE INTO usuarios (username, password_hash, nivel_acesso, nome_completo)
-    VALUES ('admin', 'admin123', 3, 'Administrador Padrão')
+    INSERT OR IGNORE INTO usuarios 
+    (username, password_hash, nivel_acesso, nome_completo)
+    VALUES 
+    ('admin', 'admin123', 3, 'Administrador Padrão')
     """)
     
     conn.commit()

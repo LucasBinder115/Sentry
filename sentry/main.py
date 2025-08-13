@@ -1,4 +1,4 @@
-# LOGISICA/sentry/main.py
+# LOGISICA/sentry/main.py (atualizado)
 import tkinter as tk
 from tkinter import ttk
 from .auth.login_page import LoginPage
@@ -10,27 +10,33 @@ class MainApplication(tk.Tk):
         self.title("LOGISICA - Controle de Acesso")
         self.geometry("1024x768")
         self.resizable(False, False)
-        
-        # Configuração do tema
         self.style = ttk.Style(self)
         self.configure_theme()
         
-        # Mostrar tela de splash
         self.splash = SplashScreen(self)
         self.splash.pack(fill=tk.BOTH, expand=True)
-        
-        # Após 3 segundos, mostrar login
         self.after(3000, self.show_login)
     
     def configure_theme(self):
-        """Configura o tema visual da aplicação"""
         self.style.theme_use('clam')
-        # (Carregar configurações do style.json depois)
     
     def show_login(self):
-        """Transição para a tela de login"""
         self.splash.destroy()
         LoginPage(self).pack(fill=tk.BOTH, expand=True)
+    
+    def show_main_interface(self):
+        """Nova função para mostrar a interface principal após login"""
+        # Limpar a tela atual
+        for widget in self.winfo_children():
+            widget.destroy()
+        
+        # Adicionar aqui a interface principal
+        label = tk.Label(
+            self,
+            text="Interface Principal - Bem-vindo!",
+            font=("Helvetica", 16)
+        )
+        label.pack(expand=True)
 
 if __name__ == "__main__":
     app = MainApplication()
