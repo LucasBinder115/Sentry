@@ -18,7 +18,7 @@ class LoginPage(tk.Frame):
         # Título
         title_label = tk.Label(
             main_frame,
-            text="LOGISICA - Login",
+            text="SENTRY.INC - Login",
             font=("Helvetica", 16, "bold"),
             bg="#f5f5f5"
         )
