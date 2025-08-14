@@ -15,7 +15,7 @@ class SplashScreen(tk.Frame):
         # Logo e título
         self.logo_label = tk.Label(
             self, 
-            text="LOGISICA", 
+            text="SENTRY.INC", 
             font=("Helvetica", 24, "bold"), 
             fg="#ecf0f1", 
             bg="#2c3e50"
