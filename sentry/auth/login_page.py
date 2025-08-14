@@ -107,3 +107,19 @@ class LoginPage(tk.Frame):
             return result[0] if result else username
         except sqlite3.Error:
             return username
+
+            # sentry/auth/login_page.py (atualizado)
+from sentry.ui.presenters.auth_presenter import AuthPresenter
+
+class LoginPage(tk.Frame):
+    def __init__(self, parent):
+        super().__init__(parent)
+        self.presenter = AuthPresenter(self)
+        # ... (restante do código mantido)
+    
+    def attempt_login(self):
+        username = self.user_entry.get()
+        password = self.pass_entry.get()
+        
+        if self.presenter.login(username, password):
+            self.parent.show_dashboard()
