@@ -1,0 +1,16 @@
+{
+  "colors": {
+    "primary": "#2c3e50",
+    "secondary": "#34495e",
+    "accent": "#3498db",
+    "success": "#2ecc71",
+    "danger": "#e74c3c",
+    "warning": "#f39c12",
+    "background": "#f0f2f5"
+  },
+  "fonts": {
+    "base": "Helvetica",
+    "title": {"family": "Helvetica", "size": 16, "weight": "bold"},
+    "card": {"family": "Helvetica", "size": 24, "weight": "bold"}
+  }
+}
