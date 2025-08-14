@@ -3,11 +3,12 @@ import tkinter as tk
 from tkinter import ttk
 from .auth.login_page import LoginPage
 from .ui.splash import SplashScreen
+from sentry.ui.dashboard import Dashboard
 
 class MainApplication(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("LOGISICA - Controle de Acesso")
+        self.title("SENTRY.INC - Controle de Acesso")
         self.geometry("1024x768")
         self.resizable(False, False)
         self.style = ttk.Style(self)
