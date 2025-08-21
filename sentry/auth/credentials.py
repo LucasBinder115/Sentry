@@ -1,25 +1,16 @@
-# LOGISICA/sentry/auth/credentials.py
-import sqlite3
-from pathlib import Path
-from ..database import DB_PATH
+# sentry/auth/credentials.py
+from sentry.infra.database.repositories import UserRepository
 
 def verify_credentials(username, password):
     """Verifica se as credenciais são válidas"""
     try:
-        conn = sqlite3.connect(DB_PATH)
-        cursor = conn.cursor()
+        repo = UserRepository()
+        user = repo.find_by_username(username)
+        repo.close()
         
-        cursor.execute(
-            "SELECT password_hash FROM usuarios WHERE username = ?",
-            (username,)
-        )
-        result = cursor.fetchone()
-        
-        if result and result[0] == password:  # Em produção, usar hash seguro!
+        if user and user['password_hash'] == password:
             return True
         return False
-    except sqlite3.Error as e:
+    except Exception as e:
         print(f"Erro ao verificar credenciais: {e}")
         return False
-    finally:
-        conn.close()
