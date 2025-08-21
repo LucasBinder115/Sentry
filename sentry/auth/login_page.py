@@ -1,10 +1,6 @@
-# LOGISICA/sentry/auth/login_page.py
+# main.py - Aplicação principal
 import tkinter as tk
 from tkinter import ttk, messagebox
-from .credentials import verify_credentials
-import sqlite3 # Importação necessária
-# Importe DB_PATH, se estiver em outro arquivo
-# from ..database.db_config import DB_PATH 
 
 class LoginPage(tk.Frame):
     def __init__(self, parent):
@@ -73,16 +69,17 @@ class LoginPage(tk.Frame):
         
         # Bind Enter para login
         self.pass_entry.bind("<Return>", lambda e: self.attempt_login())
+        self.user_entry.bind("<Return>", lambda e: self.pass_entry.focus_set())
     
     def attempt_login(self):
-        username = self.user_entry.get()
-        password = self.pass_entry.get()
+        username = self.user_entry.get().strip()
+        password = self.pass_entry.get().strip()
         
-        if verify_credentials(username, password):
-            # Obter dados do usuário
+        # Verificar credenciais hardcoded
+        if self.verify_credentials(username, password):
             usuario = {
                 "username": username,
-                "nome_completo": self.get_user_fullname(username)
+                "nome_completo": "Lucas Binder"
             }
             self.parent.show_dashboard(usuario)
         else:
@@ -91,35 +88,147 @@ class LoginPage(tk.Frame):
                 "Usuário ou senha incorretos"
             )
             self.pass_entry.delete(0, tk.END)
+            self.pass_entry.focus_set()
 
-    def get_user_fullname(self, username):
-        """Obtém o nome completo do usuário do banco de dados"""
-        # A constante DB_PATH precisa ser definida ou importada
-        DB_PATH = "caminho_para_seu_banco_de_dados.db" 
-        try:
-            conn = sqlite3.connect(DB_PATH)
-            cursor = conn.cursor()
-            cursor.execute(
-                "SELECT nome_completo FROM usuarios WHERE username = ?",
-                (username,)
-            )
-            result = cursor.fetchone()
-            return result[0] if result else username
-        except sqlite3.Error:
-            return username
+    def verify_credentials(self, username, password):
+        """Verifica as credenciais de login"""
+        # Credencial válida: usuário "Lucas" e senha "123456"
+        return username == "Lucas" and password == "123456"
 
-            # sentry/auth/login_page.py (atualizado)
-from sentry.ui.presenters.auth_presenter import AuthPresenter
 
-class LoginPage(tk.Frame):
-    def __init__(self, parent):
+class DashboardPage(tk.Frame):
+    def __init__(self, parent, usuario):
         super().__init__(parent)
-        self.presenter = AuthPresenter(self)
-        # ... (restante do código mantido)
+        self.parent = parent
+        self.usuario = usuario
+        self.configure(bg="#f0f0f0")
+        self.create_widgets()
     
-    def attempt_login(self):
-        username = self.user_entry.get()
-        password = self.pass_entry.get()
+    def create_widgets(self):
+        # Frame principal
+        main_frame = tk.Frame(self, bg="#f0f0f0", padx=30, pady=30)
+        main_frame.pack(expand=True, fill="both")
         
-        if self.presenter.login(username, password):
-            self.parent.show_dashboard()
+        # Título do Dashboard
+        title_label = tk.Label(
+            main_frame,
+            text="SENTRY.INC - Dashboard",
+            font=("Helvetica", 18, "bold"),
+            bg="#f0f0f0"
+        )
+        title_label.pack(pady=(0, 20))
+        
+        # Mensagem de boas-vindas
+        welcome_label = tk.Label(
+            main_frame,
+            text=f"Bem-vindo, {self.usuario['nome_completo']}!",
+            font=("Helvetica", 14),
+            bg="#f0f0f0"
+        )
+        welcome_label.pack(pady=(0, 30))
+        
+        # Informações do usuário
+        info_frame = tk.Frame(main_frame, bg="#f0f0f0")
+        info_frame.pack(pady=(0, 20))
+        
+        tk.Label(
+            info_frame,
+            text="Informações da Sessão:",
+            font=("Helvetica", 12, "bold"),
+            bg="#f0f0f0"
+        ).pack(anchor="w")
+        
+        tk.Label(
+            info_frame,
+            text=f"Usuário: {self.usuario['username']}",
+            font=("Helvetica", 10),
+            bg="#f0f0f0"
+        ).pack(anchor="w", pady=(5, 0))
+        
+        tk.Label(
+            info_frame,
+            text=f"Nome: {self.usuario['nome_completo']}",
+            font=("Helvetica", 10),
+            bg="#f0f0f0"
+        ).pack(anchor="w")
+        
+        # Botões do dashboard
+        buttons_frame = tk.Frame(main_frame, bg="#f0f0f0")
+        buttons_frame.pack(pady=20)
+        
+        # Botão de exemplo
+        ttk.Button(
+            buttons_frame,
+            text="Função 1",
+            command=self.funcao_exemplo
+        ).pack(side="left", padx=5)
+        
+        ttk.Button(
+            buttons_frame,
+            text="Função 2",
+            command=self.funcao_exemplo
+        ).pack(side="left", padx=5)
+        
+        # Botão de logout
+        logout_btn = ttk.Button(
+            main_frame,
+            text="Logout",
+            command=self.logout
+        )
+        logout_btn.pack(pady=(30, 0))
+    
+    def funcao_exemplo(self):
+        messagebox.showinfo("Info", "Função do dashboard executada!")
+    
+    def logout(self):
+        response = messagebox.askyesno(
+            "Logout", 
+            "Deseja realmente fazer logout?"
+        )
+        if response:
+            self.parent.show_login()
+
+
+class MainApplication(tk.Tk):
+    def __init__(self):
+        super().__init__()
+        self.title("SENTRY.INC - Sistema de Login")
+        self.geometry("800x600")
+        self.resizable(True, True)
+        
+        # Centralizar janela
+        self.center_window()
+        
+        # Inicializar com tela de login
+        self.current_frame = None
+        self.show_login()
+    
+    def center_window(self):
+        """Centraliza a janela na tela"""
+        self.update_idletasks()
+        width = 800
+        height = 600
+        x = (self.winfo_screenwidth() // 2) - (width // 2)
+        y = (self.winfo_screenheight() // 2) - (height // 2)
+        self.geometry(f"{width}x{height}+{x}+{y}")
+    
+    def show_login(self):
+        """Mostra a tela de login"""
+        if self.current_frame:
+            self.current_frame.destroy()
+        
+        self.current_frame = LoginPage(self)
+        self.current_frame.pack(fill="both", expand=True)
+    
+    def show_dashboard(self, usuario):
+        """Mostra o dashboard após login bem-sucedido"""
+        if self.current_frame:
+            self.current_frame.destroy()
+        
+        self.current_frame = DashboardPage(self, usuario)
+        self.current_frame.pack(fill="both", expand=True)
+
+
+if __name__ == "__main__":
+    app = MainApplication()
+    app.mainloop()
