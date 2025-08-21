@@ -12,3 +12,7 @@ class AuthPresenter:
         if user and verify_credentials(user, password):
             return True
         return False
+    
+    def __del__(self):
+        # Garante que a conexão será fechada
+        self.repo.close()
