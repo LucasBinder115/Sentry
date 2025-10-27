@@ -1,16 +1,24 @@
 {
   "colors": {
-    "primary": "#2c3e50",
-    "secondary": "#34495e",
-    "accent": "#3498db",
-    "success": "#2ecc71",
-    "danger": "#e74c3c",
-    "warning": "#f39c12",
-    "background": "#f0f2f5"
+    "primary": "#1e1e2f",         
+    "secondary": "#2a2a3c",       
+    "accent": "#4a90e2",          
+    "success": "#27ae60",         
+    "danger": "#c0392b",          
+    "warning": "#e67e22",         
+    "background": "#f5f6fa"       
   },
   "fonts": {
     "base": "Helvetica",
-    "title": {"family": "Helvetica", "size": 16, "weight": "bold"},
-    "card": {"family": "Helvetica", "size": 24, "weight": "bold"}
+    "title": {
+      "family": "Helvetica",
+      "size": 18,
+      "weight": "bold"
+    },
+    "card": {
+      "family": "Helvetica",
+      "size": 22,
+      "weight": "bold"
+    }
   }
 }
