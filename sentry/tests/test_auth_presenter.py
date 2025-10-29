@@ -1,24 +1,34 @@
-# sentry/tests/test_auth_presenter.py
+"""Tests for authentication presenter."""
+
+import unittest
+from unittest.mock import Mock
+
 from sentry.ui.presenters.auth_presenter import AuthPresenter
 
-class MockView:
-    def on_login_success(self):
-        pass
-    
-    def on_login_failure(self, error):
-        pass
-    
-    def on_logout_success(self):
-        pass
+class TestAuthPresenter(unittest.TestCase):
+    """Test authentication presenter functionality."""
 
-def test_auth_presenter_initialization():
-    """Teste básico de inicialização do AuthPresenter"""
-    view = MockView()
-    presenter = AuthPresenter(view)
-    assert presenter is not None
-    assert presenter.view == view
+    def setUp(self):
+        """Set up test environment."""
+        self.mock_view = Mock()
+        self.presenter = AuthPresenter(self.mock_view)
 
-def test_auth_presenter_placeholder():
-    """Placeholder para testes futuros do AuthPresenter"""
-    # TODO: Implementar testes reais quando a lógica de auth estiver completa
-    assert True
+    def test_login_success(self):
+        """Test successful login."""
+        result = self.presenter.login("admin", "admin")
+        self.assertIsNotNone(result)
+        self.assertEqual(result["username"], "admin")
+        self.assertEqual(result["role"], "admin")
+
+    def test_login_failure(self):
+        """Test failed login."""
+        result = self.presenter.login("wrong", "wrong")
+        self.assertIsNone(result)
+
+    def test_logout(self):
+        """Test logout functionality."""
+        result = self.presenter.logout()
+        self.assertTrue(result)
+
+if __name__ == '__main__':
+    unittest.main()
