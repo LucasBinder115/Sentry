@@ -6,6 +6,8 @@ from PyQt5.QtWidgets import (
 )
 from PyQt5.QtCore import pyqtSignal
 from PyQt5.QtGui import QFont
+from PyQt5.QtGui import QRegExpValidator
+from PyQt5.QtCore import QRegExp
 
 class CarrierRegistrationView(QWidget):
     """Simple carrier registration view."""
@@ -38,10 +40,16 @@ class CarrierRegistrationView(QWidget):
 
         self.cnpj_input = QLineEdit()
         self.cnpj_input.setPlaceholderText("00.000.000/0000-00")
+        # Allow only digits, max 14
+        self.cnpj_input.setValidator(QRegExpValidator(QRegExp("^\\d{0,14}$"), self))
+        self.cnpj_input.setMaxLength(14)
         form_layout.addRow("CNPJ:*", self.cnpj_input)
 
         self.phone_input = QLineEdit()
         self.phone_input.setPlaceholderText("(00) 00000-0000")
+        # Allow only digits, max 11
+        self.phone_input.setValidator(QRegExpValidator(QRegExp("^\\d{0,11}$"), self))
+        self.phone_input.setMaxLength(11)
         form_layout.addRow("Telefone:", self.phone_input)
 
         layout.addWidget(form)
@@ -67,6 +75,10 @@ class CarrierRegistrationView(QWidget):
         # Basic validation
         name = self.name_input.text().strip()
         cnpj = self.cnpj_input.text().strip()
+        phone = self.phone_input.text().strip()
+        # Sanitize: keep only digits (validators already enforce, but double-sanitize)
+        cnpj = ''.join(ch for ch in cnpj if ch.isdigit())[:14]
+        phone = ''.join(ch for ch in phone if ch.isdigit())[:11]
         
         if not name or not cnpj:
             QMessageBox.warning(self, "Erro", "Nome e CNPJ são obrigatórios")
@@ -76,5 +88,5 @@ class CarrierRegistrationView(QWidget):
         self.registration_successful.emit({
             "name": name,
             "cnpj": cnpj,
-            "phone": self.phone_input.text().strip()
+            "phone": phone
         })

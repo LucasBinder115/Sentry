@@ -1,0 +1,33 @@
+# SENTRY configuration
+ocr:
+  engine: tesseract        # tesseract | easyocr | paddle
+  tesseract_cmd: "C:\\Program Files\\Tesseract-OCR\\tesseract.exe"
+  confidence_threshold: 0.6
+  preprocessing: true
+
+backups:
+  hour: 3                   # 0-23 local time
+  retention: 14             # keep last N backups
+
+plugins:
+  enabled: []               # e.g., ["notify_plugin", "custom_exporter"]
+
+exports:
+  default_format: csv       # csv | xlsx (xlsx requires dependency)
+
+cameras:
+  - name: Default
+    source: 0               # index or RTSP/URL
+
+# Alerts configuration (thresholds)
+alerts:
+  camera_offline_seconds: 30      # seconds without frames to alert
+  high_failure_rate: 0.3          # fraction (0..1) over 15 minutes
+  low_conf_streak: 5              # consecutive low-confidence count
+  duplicate_spike_count: 3        # duplicates within 60s
+
+# Auto-reports
+reports:
+  schedule: weekly                # daily | weekly | off
+  hour: 8                         # local time hour
+  formats: [pdf, zip]             # which outputs to generate

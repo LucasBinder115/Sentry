@@ -3,13 +3,15 @@
 from PyQt5.QtWidgets import (
     QVBoxLayout, QTableWidget, QTableWidgetItem,
     QPushButton, QHBoxLayout, QLineEdit, QLabel,
-    QMenu, QMessageBox
+    QMenu, QMessageBox, QFileDialog
 )
 from PyQt5.QtCore import Qt
 
 from .base_section_view import BaseSectionView
 from ..widgets.vehicle_form_dialog import VehicleFormDialog
 from ...data.database.vehicle_repository import VehicleRepository
+from ...core.export import DataExporter
+from ...config import EXPORTS_DIR
 
 class VehiclesView(BaseSectionView):
     """Vehicle management view."""
@@ -18,6 +20,7 @@ class VehiclesView(BaseSectionView):
         """Initialize vehicles view."""
         super().__init__("Gerenciamento de Veículos", parent)
         self.vehicle_repo = VehicleRepository()
+        self.exporter = DataExporter(EXPORTS_DIR)
         self.setup_content()
         self.load_vehicles()
     
@@ -46,9 +49,8 @@ class VehiclesView(BaseSectionView):
                 background-color: white;
             }
             QLineEdit:focus {
-                border-color: #80bdff;
-                outline: 0;
-                box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+                border: 2px solid #80bdff;
+                outline: none;
             }
         """)
         search_container.addWidget(self.search_input)
@@ -155,11 +157,11 @@ class VehiclesView(BaseSectionView):
     def add_vehicle(self):
         """Open dialog to add a new vehicle."""
         try:
-            dialog = VehicleFormDialog(self)
+            dialog = VehicleFormDialog(parent=self)
             if dialog.exec_():
                 self.load_vehicles()
         except Exception as e:
-            QMessageBox.warning(
+            QMessageBox.critical(
                 self,
                 'Erro',
                 f'Erro ao adicionar veículo: {str(e)}',
@@ -176,10 +178,10 @@ class VehiclesView(BaseSectionView):
                 return
                 
             plate = self.table.item(index.row(), 0).text()
-            vehicle = self.vehicle_repo.get_by_plate(plate)
+            vehicle = self.vehicle_repo.get_vehicle_by_plate(plate)
             
             if vehicle:
-                dialog = VehicleFormDialog(self, vehicle)
+                dialog = VehicleFormDialog(vehicle, parent=self)
                 if dialog.exec_():
                     self.load_vehicles()
         except Exception as e:
@@ -215,6 +217,51 @@ class VehiclesView(BaseSectionView):
                 self,
                 'Erro',
                 f'Erro ao excluir veículo: {str(e)}',
+                QMessageBox.Ok
+            )
+            
+    def export_data(self):
+        """Export vehicles data to CSV."""
+        try:
+            # Get all vehicles
+            vehicles = self.vehicle_repo.get_all()
+            
+            # Let user choose save location
+            file_path, _ = QFileDialog.getSaveFileName(
+                self,
+                "Exportar Dados",
+                "",
+                "CSV Files (*.csv)"
+            )
+            
+            if file_path:
+                # Ensure .csv extension
+                if not file_path.lower().endswith('.csv'):
+                    file_path += '.csv'
+                
+                # Define headers for export
+                headers = ['Placa', 'Modelo', 'Cor', 'Status']
+                
+                # Export data
+                self.exporter.export_to_csv(
+                    data=vehicles,
+                    headers=headers,
+                    field_names=['plate', 'model', 'color', 'status'],
+                    file_path=file_path
+                )
+                
+                QMessageBox.information(
+                    self,
+                    'Sucesso',
+                    'Dados exportados com sucesso!',
+                    QMessageBox.Ok
+                )
+                
+        except Exception as e:
+            QMessageBox.warning(
+                self,
+                'Erro',
+                f'Erro ao exportar dados: {str(e)}',
                 QMessageBox.Ok
             )
             

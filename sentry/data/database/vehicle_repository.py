@@ -37,7 +37,7 @@ class VehicleRepository(BaseRepository):
         query = f"SELECT * FROM {self.table_name} WHERE plate = ? AND status = 'ACTIVE'"
         
         try:
-            with sqlite3.connect(self.db_path) as conn:
+            with self.db.get_connection() as conn:
                 cursor = conn.cursor()
                 cursor.execute(query, (plate.upper(),))
                 row = cursor.fetchone()
@@ -45,6 +45,10 @@ class VehicleRepository(BaseRepository):
         except sqlite3.Error as e:
             self.logger.error(f"Error retrieving vehicle by plate: {e}")
             raise
+
+    def get_by_plate(self, plate: str) -> Optional[Dict[str, Any]]:
+        """Alias for get_vehicle_by_plate to match call sites."""
+        return self.get_vehicle_by_plate(plate)
 
     def update_vehicle(self, vehicle_id: int, **fields) -> bool:
         """Update vehicle fields."""
@@ -66,4 +70,26 @@ class VehicleRepository(BaseRepository):
             return [dict(row) for row in rows]
         except sqlite3.Error as e:
             self.logger.error(f"Error retrieving recent vehicles: {e}")
+            raise
+            
+    def get_all(self) -> List[Dict[str, Any]]:
+        """Get all active vehicles."""
+        query = f"SELECT * FROM {self.table_name} WHERE status = 'ACTIVE' ORDER BY created_at DESC"
+        try:
+            rows = self.execute_query(query)
+            return [dict(row) for row in rows]
+        except sqlite3.Error as e:
+            self.logger.error(f"Error retrieving all vehicles: {e}")
+            raise
+
+    def delete(self, plate: str) -> bool:
+        """Soft delete a vehicle by setting its status to INACTIVE."""
+        try:
+            vehicle = self.get_vehicle_by_plate(plate)
+            if not vehicle:
+                raise ValueError(f"Vehicle with plate {plate} not found")
+                
+            return self.update(vehicle['id'], status='INACTIVE')
+        except sqlite3.Error as e:
+            self.logger.error(f"Error deleting vehicle: {e}")
             raise

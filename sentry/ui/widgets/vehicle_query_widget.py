@@ -2,8 +2,22 @@
 
 from PyQt5.QtWidgets import QWidget, QVBoxLayout, QLineEdit, QPushButton, QTextEdit
 from PyQt5.QtCore import pyqtSignal, Qt
+from .base_view import BaseView
+from ..styles.theme import Colors, StyleSheet, Fonts, Icons
 
-class VehicleQueryWidget(QWidget):
+# For buttons
+button.setStyleSheet(StyleSheet.BUTTON_PRIMARY)
+
+# For inputs
+input.setStyleSheet(StyleSheet.INPUT)
+
+# For colors
+background_color = Colors.BACKGROUND
+
+# For icons
+add_button = QPushButton(f"{Icons.ADD} Add Item")
+
+class VehicleQueryWidget(BaseView):
     """
     Widget para consulta de segurança de veículos pela placa.
     """
@@ -12,7 +26,7 @@ class VehicleQueryWidget(QWidget):
     query_requested = pyqtSignal(str)
 
     def __init__(self, parent=None):
-        super().__init__(parent)
+        super().__init__("Consulta de Segurança de Veículos", parent)
         self.setup_ui()
 
     def setup_ui(self):
@@ -54,3 +68,20 @@ class VehicleQueryWidget(QWidget):
             self.query_button.setText("Consultando...")
         else:
             self.query_button.setText("Consultar Segurança")
+
+    def some_long_operation(self):
+        self.show_loading("Processing...")
+        try:
+            # Do work
+            pass
+        finally:
+            self.hide_loading()
+
+    def setup_action_buttons(self):
+        self.add_action_button(
+            "Add New",
+            Icons.ADD,
+            StyleSheet.BUTTON_PRIMARY,
+            self.add_item,
+            "Add a new item"
+        )

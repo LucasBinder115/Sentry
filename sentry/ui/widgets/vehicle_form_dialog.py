@@ -82,3 +82,20 @@ class VehicleFormDialog(BaseFormDialog):
         """Show error message."""
         from PyQt5.QtWidgets import QMessageBox
         QMessageBox.warning(self, "Erro de Validação", message)
+        
+    def save_data(self, data: dict):
+        """Save vehicle data."""
+        from ...data.database.vehicle_repository import VehicleRepository
+        repo = VehicleRepository()
+        
+        try:
+            if self.vehicle_data:  # Editing existing vehicle
+                repo.update_vehicle(self.vehicle_data['id'], **data)
+            else:  # Creating new vehicle
+                repo.create_vehicle(
+                    plate=data['plate'],
+                    model=data['model'],
+                    color=data.get('color')
+                )
+        except Exception as e:
+            raise Exception(f"Erro ao salvar veículo: {str(e)}")

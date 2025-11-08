@@ -53,3 +53,1154 @@
 2025-10-29 12:17:01,023 - sentry.data.database.database - INFO - Database initialized successfully
 2025-10-29 12:17:01,024 - root - INFO - Database initialized
 2025-10-29 12:17:01,922 - root - INFO - Application UI initialized
+2025-10-29 12:23:35,712 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:35,866 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:35,981 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:36,112 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:36,230 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:36,343 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:36,389 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:36,524 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:36,573 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:36,734 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:36,863 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:36,978 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:37,101 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:37,214 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:37,329 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:37,456 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:37,577 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:37,701 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:37,832 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:37,955 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:38,079 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:38,197 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:38,313 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:38,432 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:38,556 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:38,673 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:38,794 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:38,918 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:39,043 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:39,161 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:39,200 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:39,337 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:39,454 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:39,501 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:39,637 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:39,754 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:41,771 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:41,923 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:42,052 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:42,173 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:42,314 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:42,439 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:42,566 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:42,684 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:42,806 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:42,945 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:43,062 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:43,194 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:43,328 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:43,456 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:43,499 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:23:43,646 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 12:36:20,178 - root - INFO - Starting SENTRY application...
+2025-10-29 12:36:20,197 - sentry.data.database.database - INFO - Initializing database...
+2025-10-29 12:36:20,200 - sentry.data.database.database - INFO - Database initialized successfully
+2025-10-29 12:36:20,201 - root - INFO - Database initialized
+2025-10-29 12:36:20,748 - root - INFO - Application UI initialized
+2025-10-29 12:44:54,873 - root - INFO - Starting SENTRY application...
+2025-10-29 12:44:54,874 - sentry.data.database.database - INFO - Initializing database...
+2025-10-29 12:44:54,876 - sentry.data.database.database - INFO - Database initialized successfully
+2025-10-29 12:44:54,877 - root - INFO - Database initialized
+2025-10-29 12:44:55,402 - root - INFO - Application UI initialized
+2025-10-29 15:47:25,346 - root - INFO - Starting SENTRY application...
+2025-10-29 15:47:25,348 - sentry.data.database.database - INFO - Initializing database...
+2025-10-29 15:47:25,351 - sentry.data.database.database - INFO - Database initialized successfully
+2025-10-29 15:47:25,352 - root - INFO - Database initialized
+2025-10-29 15:47:26,576 - root - INFO - Application UI initialized
+2025-10-29 15:47:35,307 - sentry.data.database.database_manager - ERROR - Database error: unable to open database file
+2025-10-29 15:54:06,438 - root - INFO - Starting SENTRY application...
+2025-10-29 15:54:06,442 - sentry.data.database.database - INFO - Initializing database...
+2025-10-29 15:54:06,453 - sentry.data.database.database - INFO - Database initialized successfully
+2025-10-29 15:54:06,455 - root - INFO - Database initialized
+2025-10-29 15:54:07,452 - root - INFO - Application UI initialized
+2025-10-29 15:54:13,877 - sentry.data.database.database_manager - INFO - Database path: /home/lucas/Projetos para Portfolio/Linguagem de Programação/Python/Logisica/sentry/data/database/sentry.db
+2025-10-29 15:54:31,121 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 15:54:31,179 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 15:54:31,246 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 15:54:31,413 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 15:54:31,561 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 15:54:31,724 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 15:54:31,887 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 15:54:32,110 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 15:54:32,260 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 15:54:32,411 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 15:54:32,594 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 15:54:32,760 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:21:57,904 - root - INFO - Starting SENTRY application...
+2025-10-29 18:21:57,905 - sentry.data.database.database - INFO - Initializing database...
+2025-10-29 18:21:57,909 - sentry.data.database.database - INFO - Database initialized successfully
+2025-10-29 18:21:57,909 - root - INFO - Database initialized
+2025-10-29 18:21:59,156 - root - INFO - Application UI initialized
+2025-10-29 18:22:04,775 - sentry.data.database.database_manager - INFO - Database path: /home/lucas/Projetos para Portfolio/Linguagem de Programação/Python/Logisica/sentry/data/database/sentry.db
+2025-10-29 18:22:37,826 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:37,877 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:38,036 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:38,203 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:38,427 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:38,606 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:38,905 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:38,977 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:39,183 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:39,223 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:39,384 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:39,492 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:39,600 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:39,632 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:39,761 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:39,876 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:40,000 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:40,117 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:40,151 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:40,276 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:40,314 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:40,446 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:40,565 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:40,602 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:40,745 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:40,851 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:40,884 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:40,939 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:41,069 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:41,184 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:41,298 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:41,414 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:41,447 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:41,501 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:41,546 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:41,676 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:41,783 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:41,892 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:42,009 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:42,126 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:42,241 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:42,355 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:42,387 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:42,516 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:42,625 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:42,735 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:42,842 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:42,875 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:42,997 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:43,115 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:43,225 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:22:43,335 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:49:27,318 - root - INFO - Starting SENTRY application...
+2025-10-29 18:49:27,318 - sentry.data.database.database - INFO - Initializing database...
+2025-10-29 18:49:27,321 - sentry.data.database.database - INFO - Database initialized successfully
+2025-10-29 18:49:27,322 - root - INFO - Database initialized
+2025-10-29 18:49:27,888 - root - INFO - Application UI initialized
+2025-10-29 18:49:35,282 - sentry.data.database.database_manager - INFO - Database path: /home/lucas/Projetos para Portfolio/Linguagem de Programação/Python/Logisica/sentry/data/database/sentry.db
+2025-10-29 18:50:07,313 - sentry.data.database.database_manager - ERROR - Database error: no such table: activity_logs
+2025-10-29 18:50:07,315 - sentry.data.database.database_manager - ERROR - Update error: Database error: no such table: activity_logs
+2025-10-29 18:51:22,195 - sentry.data.database.database_manager - ERROR - Database error: no such table: activity_logs
+2025-10-29 18:51:22,197 - sentry.data.database.database_manager - ERROR - Update error: Database error: no such table: activity_logs
+2025-10-29 18:51:52,372 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:52,448 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:52,495 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:52,617 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:52,727 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:52,844 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:52,960 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:53,076 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:53,187 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:53,297 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:53,421 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:53,544 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:55,361 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:55,492 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:55,604 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:55,726 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:55,844 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:55,960 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:56,079 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:56,196 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:56,302 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:56,424 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:56,547 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:56,580 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:56,698 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:56,805 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:56,915 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:57,027 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-10-29 18:51:57,139 - sentry.core.ocr - WARNING - pytesseract not available — OCR disabled
+2025-11-05 14:40:12,000 - root - INFO - Starting SENTRY application...
+2025-11-05 14:40:12,007 - sentry.data.database.database - INFO - Initializing database...
+2025-11-05 14:40:12,059 - sentry.data.database.database - INFO - Database initialized successfully
+2025-11-05 14:40:12,081 - root - INFO - Database initialized
+2025-11-05 14:40:14,713 - root - INFO - Application UI initialized
+2025-11-05 14:40:23,294 - sentry.data.database.database_manager - INFO - Database path: C:\Users\Lucas\Documents\Projetosentry\Sentry\sentry\data\database\sentry.db
+2025-11-05 14:40:40,606 - root - INFO - Starting SENTRY application...
+2025-11-05 14:40:40,608 - sentry.data.database.database - INFO - Initializing database...
+2025-11-05 14:40:40,618 - sentry.data.database.database - INFO - Database initialized successfully
+2025-11-05 14:40:40,620 - root - INFO - Database initialized
+2025-11-05 14:40:41,827 - root - INFO - Application UI initialized
+2025-11-05 14:40:50,136 - sentry.data.database.database_manager - INFO - Database path: C:\Users\Lucas\Documents\Projetosentry\Sentry\sentry\data\database\sentry.db
+2025-11-05 14:44:15,731 - root - INFO - Starting SENTRY application...
+2025-11-05 14:44:15,762 - sentry.data.database.database - INFO - Initializing database...
+2025-11-05 14:44:15,883 - sentry.data.database.database - INFO - Database initialized successfully
+2025-11-05 14:44:15,915 - root - INFO - Database initialized
+2025-11-05 14:44:20,736 - root - INFO - Application UI initialized
+2025-11-05 14:44:29,914 - sentry.data.database.database_manager - INFO - Database path: C:\Users\Lucas\Documents\Projetosentry\Sentry\sentry\data\database\sentry.db
+2025-11-05 16:16:17,360 - root - INFO - Starting SENTRY application...
+2025-11-05 16:16:17,363 - sentry.data.database.database - INFO - Initializing database...
+2025-11-05 16:16:17,404 - sentry.data.database.database - INFO - Database initialized successfully
+2025-11-05 16:16:17,414 - root - INFO - Database initialized
+2025-11-05 16:16:19,881 - root - INFO - Application UI initialized
+2025-11-05 16:16:26,520 - sentry.data.database.database_manager - INFO - Database path: C:\Users\Lucas\Documents\Projetosentry\Sentry\sentry\data\database\sentry.db
+2025-11-05 16:36:04,355 - root - INFO - Starting SENTRY application...
+2025-11-05 16:36:04,358 - sentry.data.database.database - INFO - Initializing database...
+2025-11-05 16:36:04,414 - sentry.data.database.database - INFO - Database initialized successfully
+2025-11-05 16:36:04,435 - root - INFO - Database initialized
+2025-11-05 16:36:06,842 - root - INFO - Application UI initialized
+2025-11-05 16:36:14,468 - sentry.data.database.database_manager - INFO - Database path: C:\Users\Lucas\Documents\Projetosentry\Sentry\sentry\data\database\sentry.db
+2025-11-05 16:47:26,912 - root - INFO - Starting SENTRY application...
+2025-11-05 16:47:26,916 - sentry.data.database.database - INFO - Initializing database...
+2025-11-05 16:47:26,979 - sentry.data.database.database - INFO - Database initialized successfully
+2025-11-05 16:47:27,027 - root - INFO - Database initialized
+2025-11-05 16:47:32,299 - root - INFO - Application UI initialized
+2025-11-05 16:47:51,713 - sentry.data.database.database_manager - INFO - Database path: C:\Users\Lucas\Documents\Projetosentry\Sentry\sentry\data\database\sentry.db
+2025-11-05 16:49:11,103 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:49:12,017 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:49:12,833 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:49:13,631 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:49:14,434 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:49:15,265 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:49:16,063 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:49:16,930 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:49:17,763 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:49:18,646 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:49:19,524 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:49:20,427 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:49:21,253 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:49:22,093 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:49:22,986 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:49:23,843 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:49:24,449 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:49:25,298 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:49:26,153 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:50:15,129 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:50:15,716 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:50:16,530 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:50:17,373 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:50:18,213 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:50:19,065 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:50:19,866 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:50:20,701 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:51:44,150 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:51:45,009 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:51:45,799 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:51:46,630 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:51:47,540 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:51:48,122 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:51:48,947 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:51:49,875 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:51:50,729 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:51:51,576 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:51:52,512 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:51:53,592 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:51:54,440 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:51:55,317 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:51:56,149 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:51:56,970 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:51:57,774 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:51:58,573 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:51:59,424 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:00,228 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:01,097 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:01,977 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:02,798 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:03,711 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:04,519 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:05,405 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:06,216 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:07,028 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:07,897 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:08,685 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:09,508 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:10,323 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:11,124 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:11,931 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:12,814 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:13,599 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:14,404 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:15,235 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:16,129 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:16,744 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:17,553 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:18,347 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:19,236 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:20,079 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:20,811 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:21,628 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:22,544 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:52:23,346 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:54:03,068 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:54:03,897 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:54:04,731 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 16:54:05,578 - sentry.core.ocr - WARNING - pytesseract not available � OCR disabled
+2025-11-05 17:10:02,520 - root - INFO - Starting SENTRY application...
+2025-11-05 17:10:02,522 - sentry.data.database.database - INFO - Initializing database...
+2025-11-05 17:10:02,551 - sentry.data.database.database - INFO - Database initialized successfully
+2025-11-05 17:10:02,553 - root - INFO - Database initialized
+2025-11-05 17:10:04,592 - root - INFO - Application UI initialized
+2025-11-05 17:10:11,426 - sentry.data.database.database_manager - INFO - Database path: C:\Users\Lucas\Documents\Projetosentry\Sentry\sentry\data\database\sentry.db
+2025-11-06 09:30:38,734 | INFO | root | Starting SENTRY application...
+2025-11-06 09:30:38,736 | INFO | sentry.data.database.database | Initializing database...
+2025-11-06 09:30:38,771 | INFO | sentry.data.database.database | Database initialized successfully
+2025-11-06 09:30:38,775 | INFO | root | Database initialized
+2025-11-06 09:30:41,239 | INFO | root | Application UI initialized
+2025-11-06 09:30:48,289 | INFO | sentry.data.database.database_manager | Database path: C:\Users\Lucas\Documents\Projetosentry\Sentry\sentry\data\database\sentry.db
+2025-11-06 09:30:48,488 | ERROR | sentry.data.database.database_manager | Database error: no such table: activity_logs
+2025-11-06 09:31:03,351 | ERROR | sentry.data.database.database_manager | Database error: no such table: activity_logs
+2025-11-06 09:31:03,361 | ERROR | sentry.data.database.database_manager | Update error: Database error: no such table: activity_logs
+2025-11-06 09:32:20,182 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:20,349 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:20,367 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:21,216 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:21,533 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:22,362 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:22,726 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:23,824 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:24,192 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:25,033 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:25,406 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:25,555 | WARNING | sentry.core.ocr | EasyOCR not available; falling back to tesseract
+2025-11-06 09:32:25,557 | INFO | sentry.core.ocr | OCR engine set to: tesseract
+2025-11-06 09:32:26,105 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:26,404 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:27,196 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:27,506 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:27,969 | WARNING | sentry.core.ocr | PaddleOCR not available; falling back to tesseract
+2025-11-06 09:32:27,970 | INFO | sentry.core.ocr | OCR engine set to: tesseract
+2025-11-06 09:32:28,345 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:28,688 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:29,318 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:29,472 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:29,511 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:30,287 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:30,570 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:31,425 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:31,795 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:32,775 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:33,084 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:33,844 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:34,223 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:35,061 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:35,363 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:35,720 | INFO | sentry.core.ocr | OCR engine set to: tesseract
+2025-11-06 09:32:36,107 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:36,391 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:37,129 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:37,425 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:38,151 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:38,448 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:39,037 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:39,234 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:39,240 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:40,071 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:40,207 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:40,892 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:41,190 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:41,908 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:42,225 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:42,958 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:43,331 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:43,977 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:44,189 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:44,198 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:44,725 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:44,972 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:45,022 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:45,779 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:46,064 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:46,744 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:47,032 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:47,871 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:48,220 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:49,196 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:49,478 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:50,494 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:50,794 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:51,782 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:52,084 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:53,064 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:53,367 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:54,366 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:54,761 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:55,916 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:56,291 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:57,139 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:57,432 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:58,097 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:32:58,376 | WARNING | sentry.core.ocr | pytesseract not available — OCR disabled
+2025-11-06 09:39:29,624 | INFO | root | Starting SENTRY application...
+2025-11-06 09:39:29,667 | INFO | sentry.data.database.database | Initializing database...
+2025-11-06 09:39:29,715 | INFO | sentry.data.database.database | Database initialized successfully
+2025-11-06 09:39:29,751 | INFO | root | Database initialized
+2025-11-06 09:39:31,554 | INFO | root | Application UI initialized
+2025-11-06 09:39:36,993 | INFO | sentry.data.database.database_manager | Database path: C:\Users\Lucas\Documents\Projetosentry\Sentry\sentry\data\database\sentry.db
+2025-11-06 09:39:37,147 | ERROR | sentry.data.database.database_manager | Database error: no such table: activity_logs
+2025-11-06 09:41:15,112 | ERROR | sentry.data.database.database_manager | Database error: no such table: activity_logs
+2025-11-06 09:41:15,117 | ERROR | sentry.data.database.database_manager | Update error: Database error: no such table: activity_logs
+2025-11-06 09:52:02,538 | INFO | root | Starting SENTRY application...
+2025-11-06 09:52:02,542 | INFO | sentry.data.database.database | Initializing database...
+2025-11-06 09:52:02,567 | INFO | sentry.data.database.database | Database initialized successfully
+2025-11-06 09:52:02,568 | INFO | root | Database initialized
+2025-11-06 09:52:04,562 | INFO | root | Application UI initialized
+2025-11-06 09:52:12,129 | INFO | sentry.data.database.database_manager | Database path: C:\Users\Lucas\Documents\Projetosentry\Sentry\sentry\data\database\sentry.db
+2025-11-06 09:56:22,060 | INFO | root | Starting SENTRY application...
+2025-11-06 09:56:22,062 | INFO | sentry.data.database.database | Initializing database...
+2025-11-06 09:56:22,071 | INFO | sentry.data.database.database | Database initialized successfully
+2025-11-06 09:56:22,073 | INFO | root | Database initialized
+2025-11-06 09:56:23,743 | INFO | root | Application UI initialized
+2025-11-06 09:56:30,093 | INFO | sentry.data.database.database_manager | Database path: C:\Users\Lucas\Documents\Projetosentry\Sentry\sentry\data\database\sentry.db
+2025-11-06 10:23:28,799 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:29,251 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:29,940 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:30,182 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:30,249 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:31,239 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:31,634 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:32,484 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:32,828 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:33,505 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:33,802 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:33,886 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:34,697 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:35,062 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:36,047 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:36,292 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:36,399 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:37,428 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:37,784 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:38,490 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:38,751 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:38,858 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:39,866 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:40,234 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:41,044 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:41,423 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:42,170 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:42,523 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:42,602 | WARNING | sentry.core.ocr | EasyOCR not available; falling back to tesseract
+2025-11-06 10:23:42,605 | INFO | sentry.core.ocr | OCR engine set to: tesseract
+2025-11-06 10:23:43,271 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:43,612 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:44,418 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:44,775 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:45,526 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:45,917 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:46,655 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:47,012 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:47,870 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:48,230 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:49,041 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:49,392 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:50,245 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:50,589 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:51,347 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:51,690 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:52,466 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:52,812 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:53,451 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:53,677 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:53,761 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:54,550 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:54,888 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:55,813 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:56,162 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:56,929 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:57,282 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:58,122 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:58,470 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:59,291 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:23:59,667 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:00,300 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:00,535 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:00,630 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:01,407 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:01,757 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:02,561 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:02,900 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:03,780 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:04,146 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:05,014 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:05,349 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:06,127 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:06,482 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:07,287 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:07,636 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:08,286 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:08,524 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:08,602 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:09,453 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:09,793 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:10,590 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:10,931 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:11,836 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:12,176 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:12,952 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:13,293 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:14,028 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:14,364 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:15,179 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:15,526 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:16,386 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:16,728 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:17,474 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:17,824 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:18,592 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:18,940 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:19,736 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:20,086 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:20,867 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:21,226 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:21,377 | WARNING | sentry.core.ocr | PaddleOCR not available; falling back to tesseract
+2025-11-06 10:24:21,379 | INFO | sentry.core.ocr | OCR engine set to: tesseract
+2025-11-06 10:24:22,028 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:22,377 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:23,127 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:24:23,461 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:13,688 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:13,779 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:14,504 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:14,673 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:15,343 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:15,451 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:16,180 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:16,515 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:16,622 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:17,328 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:17,468 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:18,195 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:18,338 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:19,386 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:19,873 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:20,680 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:21,173 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:21,834 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:22,101 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:22,181 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:23,042 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:23,433 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:24,418 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:24,709 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:24,938 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:25,790 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:25,892 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:26,524 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:26,644 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:26,728 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:27,612 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:28,102 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:28,920 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:29,345 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:30,115 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:30,502 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:31,206 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:31,499 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:31,610 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:32,466 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:32,836 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:33,694 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:34,192 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:35,143 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:35,744 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:36,665 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:36,884 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:37,646 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:37,734 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:38,538 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:38,624 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:39,268 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:39,344 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:40,185 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:40,264 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:40,925 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:41,006 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:41,804 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:42,166 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:42,973 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:43,329 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:44,472 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:44,873 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:45,729 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:46,334 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:47,143 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:47,600 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:48,602 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:49,104 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:49,862 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:50,226 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:25:52,156 | WARNING | sentry.core.ocr | EasyOCR not available; falling back to tesseract
+2025-11-06 10:25:52,159 | INFO | sentry.core.ocr | OCR engine set to: tesseract
+2025-11-06 10:28:26,104 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:26,534 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:27,418 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:27,875 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:29,362 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:29,986 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:30,946 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:31,413 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:32,401 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:32,777 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:33,754 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:34,457 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:35,233 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:35,649 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:36,564 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:37,186 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:38,169 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:38,608 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:39,518 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:39,991 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:41,257 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:41,664 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:42,574 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:42,983 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:43,945 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:44,333 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:45,195 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:45,573 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:46,486 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:46,895 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:47,872 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:48,288 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:49,179 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:49,616 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:50,560 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:50,975 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:51,941 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:52,406 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:53,077 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:53,410 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:53,537 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:54,402 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:54,796 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:55,593 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:56,099 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:57,107 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:57,552 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:58,534 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:28:58,984 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:29:00,206 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:29:00,645 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:29:01,477 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:29:01,882 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:29:02,696 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:29:03,100 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:29:03,779 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:29:04,093 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:29:04,159 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:29:05,010 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:29:05,490 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:29:06,465 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:29:06,908 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:29:07,804 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:29:08,545 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:29:09,691 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:29:10,307 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:29:11,125 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:29:11,638 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:29:12,724 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:29:13,239 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:29:14,217 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 10:29:14,648 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:29:11,191 | INFO | sentry.core.export | Exported data to C:\Users\Lucas\Documents\Projetosentry\Sentry\sentry\data\exports\mercadorias_20251106_112911.csv
+2025-11-06 11:29:18,028 | ERROR | sentry.data.database.database_manager | Database error: no such column: l.timestamp
+2025-11-06 11:29:18,038 | ERROR | sentry.data.database.base_repository | Error retrieving recent logs: Database error: no such column: l.timestamp
+2025-11-06 11:29:21,271 | ERROR | sentry.data.database.database_manager | Database error: no such column: l.timestamp
+2025-11-06 11:29:21,285 | ERROR | sentry.data.database.base_repository | Error retrieving recent logs: Database error: no such column: l.timestamp
+2025-11-06 11:30:09,892 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:10,313 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:11,335 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:11,788 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:13,138 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:13,649 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:14,672 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:15,210 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:16,342 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:16,774 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:17,722 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:18,218 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:19,095 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:19,512 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:20,528 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:21,044 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:22,109 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:22,558 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:23,521 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:24,222 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:25,402 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:25,853 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:26,794 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:27,257 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:28,559 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:29,493 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:30,563 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:31,100 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:33,208 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:34,034 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:35,308 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:35,922 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:36,676 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:37,059 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:37,895 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:38,272 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:39,086 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:39,451 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:40,422 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:40,839 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:41,601 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:41,957 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:30:52,268 | INFO | root | Starting SENTRY application...
+2025-11-06 11:30:52,270 | INFO | sentry.data.database.database | Initializing database...
+2025-11-06 11:30:52,281 | INFO | sentry.data.database.database | Database initialized successfully
+2025-11-06 11:30:52,283 | INFO | root | Database initialized
+2025-11-06 11:30:54,159 | INFO | root | Application UI initialized
+2025-11-06 11:30:59,589 | INFO | sentry.data.database.database_manager | Database path: C:\Users\Lucas\Documents\Projetosentry\Sentry\sentry\data\database\sentry.db
+2025-11-06 11:50:37,821 | INFO | root | Starting SENTRY application...
+2025-11-06 11:50:37,825 | INFO | sentry.data.database.database | Initializing database...
+2025-11-06 11:50:37,834 | INFO | sentry.data.database.database | Database initialized successfully
+2025-11-06 11:50:37,836 | INFO | root | Database initialized
+2025-11-06 11:50:39,758 | INFO | root | Application UI initialized
+2025-11-06 11:50:48,836 | INFO | sentry.data.database.database_manager | Database path: C:\Users\Lucas\Documents\Projetosentry\Sentry\sentry\data\database\sentry.db
+2025-11-06 11:51:42,874 | ERROR | sentry.data.database.database_manager | Database error: table carriers has no column named contact_phone
+2025-11-06 11:51:42,878 | ERROR | sentry.data.database.base_repository | Error creating record: Database error: table carriers has no column named contact_phone
+2025-11-06 11:54:02,082 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:02,484 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:02,607 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:03,793 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:04,332 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:05,858 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:07,034 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:07,270 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:08,399 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:08,859 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:09,917 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:10,375 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:11,110 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:11,366 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:11,499 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:12,251 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:12,626 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:13,748 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:14,275 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:15,215 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:15,967 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:17,282 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:17,897 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:19,116 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:20,090 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:21,991 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:22,566 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:23,575 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:24,230 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:25,144 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:25,572 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:26,776 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:27,307 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:27,991 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:28,327 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:28,466 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:29,251 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:29,653 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:29,769 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:30,806 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:31,272 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:32,128 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:32,524 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:33,369 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:33,741 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:34,656 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:35,120 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:36,116 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:36,521 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:37,103 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:37,407 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:37,505 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:38,461 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:38,878 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:39,740 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:40,156 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:41,090 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:41,583 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:42,508 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:42,927 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:43,878 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:44,326 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:45,198 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:45,602 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:46,486 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:46,867 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:47,899 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:48,261 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:49,067 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:49,456 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:50,401 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:50,848 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:51,003 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:51,989 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:52,496 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:53,286 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:53,634 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:54,498 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:54,857 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:55,702 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:56,060 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:56,851 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:57,188 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:58,165 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:58,532 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:59,374 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:54:59,782 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:00,821 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:01,183 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:02,317 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:02,543 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:02,649 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:03,661 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:04,136 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:04,955 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:05,554 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:06,795 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:07,381 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:08,304 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:08,738 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:09,562 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:09,957 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:10,820 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:11,180 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:12,063 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:12,409 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:13,192 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:13,568 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:14,756 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:15,311 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:16,158 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:16,511 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:17,281 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:17,629 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:18,490 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:18,899 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:20,044 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:20,608 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:21,552 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:21,981 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:22,866 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:23,310 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:24,962 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:26,057 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:27,084 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:27,460 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:28,257 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:28,639 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:29,425 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:29,807 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:30,595 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:30,957 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:31,890 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:32,255 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:33,029 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:33,410 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:34,204 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:34,577 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:35,354 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:35,722 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:36,590 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:37,041 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:38,000 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:38,414 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:39,211 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:39,707 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:40,607 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:41,040 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:41,820 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:42,193 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:43,063 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:43,431 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:44,291 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:44,693 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:45,562 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:45,960 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:46,875 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:47,299 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:48,225 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:49,027 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:50,653 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:51,363 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:52,407 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:53,121 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:54,054 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:55:54,404 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:57:05,238 | WARNING | sentry.core.ocr | EasyOCR not available; falling back to tesseract
+2025-11-06 11:57:05,262 | INFO | sentry.core.ocr | OCR engine set to: tesseract
+2025-11-06 11:57:05,281 | WARNING | sentry.core.ocr | PaddleOCR not available; falling back to tesseract
+2025-11-06 11:57:05,286 | INFO | sentry.core.ocr | OCR engine set to: tesseract
+2025-11-06 11:57:51,075 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:57:51,453 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:57:52,225 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:57:52,623 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:57:53,483 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:57:53,845 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:57:54,626 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:57:54,659 | INFO | sentry.core.ocr | OCR engine set to: tesseract
+2025-11-06 11:57:54,994 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:57:55,817 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:57:56,187 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 11:58:43,104 | ERROR | sentry.data.database.database_manager | Database error: no such column: l.timestamp
+2025-11-06 11:58:43,114 | ERROR | sentry.data.database.base_repository | Error retrieving recent logs: Database error: no such column: l.timestamp
+2025-11-06 11:58:44,613 | ERROR | sentry.data.database.database_manager | Database error: no such column: l.timestamp
+2025-11-06 11:58:44,618 | ERROR | sentry.data.database.base_repository | Error retrieving recent logs: Database error: no such column: l.timestamp
+2025-11-06 11:58:46,094 | ERROR | sentry.data.database.database_manager | Database error: no such column: l.timestamp
+2025-11-06 11:58:46,222 | ERROR | sentry.data.database.base_repository | Error retrieving recent logs: Database error: no such column: l.timestamp
+2025-11-06 13:38:58,475 | INFO | root | Starting SENTRY application...
+2025-11-06 13:38:58,477 | INFO | sentry.data.database.database | Initializing database...
+2025-11-06 13:38:58,524 | INFO | sentry.data.database.database | Database initialized successfully
+2025-11-06 13:38:58,535 | INFO | root | Database initialized
+2025-11-06 13:39:00,239 | INFO | root | Application UI initialized
+2025-11-06 13:39:05,748 | INFO | sentry.data.database.database_manager | Database path: C:\Users\Lucas\Documents\Projetosentry\Sentry\sentry\data\database\sentry.db
+2025-11-06 13:39:57,489 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:39:57,944 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:39:58,944 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:39:59,306 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:00,199 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:00,562 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:01,391 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:01,770 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:02,566 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:02,919 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:03,803 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:04,158 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:04,977 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:05,340 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:06,111 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:06,472 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:07,324 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:07,712 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:08,538 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:08,916 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:09,702 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:10,057 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:10,866 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:11,217 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:12,082 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:12,453 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:13,338 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:13,690 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:14,534 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:14,895 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:15,746 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:16,173 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:16,987 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:17,360 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:18,278 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:18,665 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:19,925 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:20,434 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:21,229 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:21,629 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:22,471 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:22,815 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:23,743 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:24,223 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:25,338 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:25,727 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:26,551 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 13:40:27,115 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:06:53,328 | INFO | root | Starting SENTRY application...
+2025-11-06 14:06:53,332 | INFO | sentry.data.database.database | Initializing database...
+2025-11-06 14:06:53,373 | INFO | sentry.data.database.database | Database initialized successfully
+2025-11-06 14:06:53,384 | INFO | root | Database initialized
+2025-11-06 14:06:55,480 | INFO | root | Application UI initialized
+2025-11-06 14:07:03,048 | INFO | sentry.data.database.database_manager | Database path: C:\Users\Lucas\Documents\Projetosentry\Sentry\sentry\data\database\sentry.db
+2025-11-06 14:09:58,925 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:09:59,285 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:00,109 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:00,466 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:01,408 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:01,757 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:02,578 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:02,936 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:04,520 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:05,209 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:06,124 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:06,574 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:07,721 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:08,358 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:09,870 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:10,992 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:12,077 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:12,542 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:13,568 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:14,132 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:14,979 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:15,288 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:15,358 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:16,204 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:16,586 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:17,502 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:18,149 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:19,616 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:20,297 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:21,270 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:21,659 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:22,498 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:22,861 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:23,556 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:23,803 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:23,881 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:24,732 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:25,133 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:26,003 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:26,427 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:27,340 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:27,773 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:29,803 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:30,347 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:31,485 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:31,875 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:32,665 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:33,113 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:34,227 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:34,677 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:35,558 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:35,996 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:37,071 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:37,529 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:38,425 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:38,785 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:39,807 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:40,248 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:41,254 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:41,724 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:42,508 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:10:42,873 | ERROR | sentry.core.ocr | OCR error: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-11-06 14:23:56,530 | INFO | root | Starting SENTRY application...
+2025-11-06 14:23:56,533 | INFO | sentry.data.database.database | Initializing database...
+2025-11-06 14:23:56,560 | INFO | sentry.data.database.database | Database initialized successfully
+2025-11-06 14:23:56,563 | INFO | root | Database initialized
+2025-11-06 14:23:58,452 | INFO | root | Application UI initialized
+2025-11-06 14:24:05,881 | INFO | sentry.data.database.database_manager | Database path: C:\Users\Lucas\Documents\Projetosentry\Sentry\sentry\data\database\sentry.db
+2025-11-06 14:42:15,432 | INFO | root | Starting SENTRY application...
+2025-11-06 14:42:15,436 | INFO | sentry.data.database.database | Initializing database...
+2025-11-06 14:42:15,482 | INFO | sentry.data.database.database | Database initialized successfully
+2025-11-06 14:42:15,494 | INFO | root | Database initialized
+2025-11-06 14:42:17,533 | INFO | root | Application UI initialized
+2025-11-06 14:42:23,445 | INFO | sentry.data.database.database_manager | Database path: C:\Users\Lucas\Documents\Projetosentry\Sentry\sentry\data\database\sentry.db
+2025-11-06 14:52:26,675 | INFO | root | Starting SENTRY application...
+2025-11-06 14:52:26,678 | INFO | sentry.data.database.database | Initializing database...
+2025-11-06 14:52:26,722 | INFO | sentry.data.database.database | Database initialized successfully
+2025-11-06 14:52:26,725 | INFO | root | Database initialized
+2025-11-06 14:52:28,922 | INFO | root | Application UI initialized
+2025-11-06 14:52:40,876 | INFO | sentry.data.database.database_manager | Database path: C:\Users\Lucas\Documents\Projetosentry\Sentry\sentry\data\database\sentry.db
+2025-11-06 14:54:21,944 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-06 14:54:21,950 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-06 15:07:02,880 | INFO | root | Starting SENTRY application...
+2025-11-06 15:07:02,883 | INFO | sentry.data.database.database | Initializing database...
+2025-11-06 15:07:02,895 | INFO | sentry.data.database.database | Database initialized successfully
+2025-11-06 15:07:02,896 | INFO | root | Database initialized
+2025-11-06 15:07:04,667 | INFO | root | Application UI initialized
+2025-11-06 15:13:39,006 | INFO | sentry.data.database.database_manager | Database path: C:\Users\Lucas\Documents\Projetosentry\Sentry\sentry\data\database\sentry.db
+2025-11-06 15:13:40,022 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-06 15:13:40,148 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-06 15:23:02,062 | INFO | root | Starting SENTRY application...
+2025-11-06 15:23:02,068 | INFO | sentry.data.database.database | Initializing database...
+2025-11-06 15:23:02,164 | INFO | sentry.data.database.database | Database initialized successfully
+2025-11-06 15:23:02,169 | INFO | root | Database initialized
+2025-11-06 15:23:04,499 | INFO | root | Application UI initialized
+2025-11-06 15:23:11,340 | INFO | sentry.data.database.database_manager | Database path: C:\Users\Lucas\Documents\Projetosentry\Sentry\sentry\data\database\sentry.db
+2025-11-06 15:23:12,493 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-06 15:23:12,514 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-06 15:24:41,035 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-06 15:24:41,041 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-06 15:26:58,893 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-06 15:26:58,899 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-06 15:27:01,360 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-06 15:27:01,366 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-06 16:02:57,411 | INFO | root | Starting SENTRY application...
+2025-11-06 16:02:57,414 | INFO | sentry.data.database.database | Initializing database...
+2025-11-06 16:02:57,428 | INFO | sentry.data.database.database | Database initialized successfully
+2025-11-06 16:02:57,430 | INFO | root | Database initialized
+2025-11-06 16:02:59,416 | INFO | root | Application UI initialized
+2025-11-06 16:57:54,739 | INFO | root | Starting SENTRY application...
+2025-11-06 16:57:54,741 | INFO | sentry.data.database.database | Initializing database...
+2025-11-06 16:57:54,782 | INFO | sentry.data.database.database | Database initialized successfully
+2025-11-06 16:57:54,792 | INFO | root | Database initialized
+2025-11-06 16:57:56,886 | INFO | root | Application UI initialized
+2025-11-06 16:58:31,062 | INFO | sentry.data.database.database_manager | Database path: C:\Users\Lucas\Documents\Projetosentry\Sentry\sentry\data\database\sentry.db
+2025-11-06 16:58:31,807 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-06 16:58:31,818 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-06 17:00:32,917 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-06 17:00:32,924 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-06 17:00:53,463 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-06 17:00:53,487 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-06 17:34:49,975 | INFO | root | Starting SENTRY application...
+2025-11-06 17:34:49,979 | INFO | sentry.data.database.database | Initializing database...
+2025-11-06 17:34:50,024 | INFO | sentry.data.database.database | Database initialized successfully
+2025-11-06 17:34:50,027 | INFO | root | Database initialized
+2025-11-06 17:34:52,077 | INFO | root | Application UI initialized
+2025-11-06 17:35:02,456 | INFO | sentry.data.database.database_manager | Database path: C:\Users\Lucas\Documents\Projetosentry\Sentry\sentry\data\database\sentry.db
+2025-11-06 17:35:03,160 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-06 17:35:03,171 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-06 17:37:45,174 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-06 17:37:45,180 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-06 17:38:00,243 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-06 17:38:00,249 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-07 14:25:49,783 | INFO | root | Starting SENTRY application...
+2025-11-07 14:25:49,786 | INFO | sentry.data.database.database | Initializing database...
+2025-11-07 14:25:49,840 | INFO | sentry.data.database.database | Database initialized successfully
+2025-11-07 14:25:49,842 | INFO | root | Database initialized
+2025-11-07 14:25:54,799 | INFO | root | Application UI initialized
+2025-11-07 14:25:59,996 | INFO | sentry.data.database.database_manager | Database path: C:\Users\Lucas\Documents\Projetosentry\Sentry\sentry\data\database\sentry.db
+2025-11-07 14:26:00,689 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-07 14:26:00,699 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-07 14:26:12,824 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-07 14:26:12,830 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-07 15:23:32,926 | INFO | root | Starting SENTRY application...
+2025-11-07 15:23:32,928 | INFO | sentry.data.database.database | Initializing database...
+2025-11-07 15:23:33,020 | INFO | sentry.data.database.database | Database initialized successfully
+2025-11-07 15:23:33,026 | INFO | root | Database initialized
+2025-11-07 15:23:35,971 | INFO | root | Application UI initialized
+2025-11-07 15:23:48,924 | INFO | sentry.data.database.database_manager | Database path: C:\Users\Lucas\Documents\Projetosentry\Sentry\sentry\data\database\sentry.db
+2025-11-07 15:23:49,710 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-07 15:23:49,722 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-07 15:27:28,374 | ERROR | sentry.data.database.database_manager | Database error: table carriers has no column named contact_phone
+2025-11-07 15:27:28,388 | ERROR | sentry.data.database.base_repository | Error creating record: Database error: table carriers has no column named contact_phone
+2025-11-07 15:27:50,772 | ERROR | sentry.data.database.database_manager | Database error: table carriers has no column named contact_phone
+2025-11-07 15:27:50,782 | ERROR | sentry.data.database.base_repository | Error creating record: Database error: table carriers has no column named contact_phone
+2025-11-07 15:28:08,521 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-07 15:28:08,530 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-07 15:28:24,866 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-07 15:28:24,872 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-07 15:29:49,066 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-07 15:29:49,072 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-07 15:30:06,239 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-07 15:30:06,244 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-07 15:31:35,218 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-07 15:31:35,226 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-07 15:33:45,564 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-07 15:33:45,570 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-07 15:34:04,199 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-07 15:34:04,204 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-07 15:34:11,340 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-07 15:34:11,345 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-07 15:35:16,238 | ERROR | sentry.data.database.database_manager | Database error: no such column: l.timestamp
+2025-11-07 15:35:16,241 | ERROR | sentry.data.database.base_repository | Error retrieving recent logs: Database error: no such column: l.timestamp
+2025-11-07 15:35:16,573 | ERROR | sentry.data.database.database_manager | Database error: no such column: l.timestamp
+2025-11-07 15:35:16,585 | ERROR | sentry.data.database.base_repository | Error retrieving recent logs: Database error: no such column: l.timestamp
+2025-11-07 15:35:16,965 | ERROR | sentry.data.database.database_manager | Database error: no such column: l.timestamp
+2025-11-07 15:35:16,970 | ERROR | sentry.data.database.base_repository | Error retrieving recent logs: Database error: no such column: l.timestamp
